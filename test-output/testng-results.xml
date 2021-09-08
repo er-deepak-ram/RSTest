@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="323730" started-at="2021-09-08T10:18:04 IST" finished-at="2021-09-08T10:23:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="323730" started-at="2021-09-08T10:18:04 IST" finished-at="2021-09-08T10:23:28 IST">
+      <class name="com.rogansshoes.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="42714" started-at="2021-09-08T10:18:04 IST" finished-at="2021-09-08T10:18:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="shopbybrand()[pri:1, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="shopbybrand" duration-ms="7978" started-at="2021-09-08T10:18:47 IST" finished-at="2021-09-08T10:18:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopbybrand -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="955" started-at="2021-09-08T10:18:55 IST" finished-at="2021-09-08T10:18:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="18212" started-at="2021-09-08T10:18:56 IST" finished-at="2021-09-08T10:19:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="womensshoes()[pri:2, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="womensshoes" duration-ms="5635" started-at="2021-09-08T10:19:14 IST" finished-at="2021-09-08T10:19:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- womensshoes -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="835" started-at="2021-09-08T10:19:20 IST" finished-at="2021-09-08T10:19:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="26890" started-at="2021-09-08T10:19:21 IST" finished-at="2021-09-08T10:19:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="mensshoes()[pri:3, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="mensshoes" duration-ms="5037" started-at="2021-09-08T10:19:47 IST" finished-at="2021-09-08T10:19:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mensshoes -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="811" started-at="2021-09-08T10:19:53 IST" finished-at="2021-09-08T10:19:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="15003" started-at="2021-09-08T10:19:53 IST" finished-at="2021-09-08T10:20:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="kidsshoes()[pri:4, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="kidsshoes" duration-ms="3544" started-at="2021-09-08T10:20:08 IST" finished-at="2021-09-08T10:20:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kidsshoes -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="809" started-at="2021-09-08T10:20:12 IST" finished-at="2021-09-08T10:20:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="11128" started-at="2021-09-08T10:20:13 IST" finished-at="2021-09-08T10:20:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="clothandassc()[pri:5, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="clothandassc" duration-ms="4872" started-at="2021-09-08T10:20:24 IST" finished-at="2021-09-08T10:20:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clothandassc -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="909" started-at="2021-09-08T10:20:29 IST" finished-at="2021-09-08T10:20:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="8927" started-at="2021-09-08T10:20:30 IST" finished-at="2021-09-08T10:20:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="contactus()[pri:7, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="contactus" duration-ms="1211" started-at="2021-09-08T10:20:39 IST" finished-at="2021-09-08T10:20:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="808" started-at="2021-09-08T10:20:40 IST" finished-at="2021-09-08T10:20:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="10255" started-at="2021-09-08T10:20:41 IST" finished-at="2021-09-08T10:20:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="faq()[pri:8, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="faq" duration-ms="1207" started-at="2021-09-08T10:20:51 IST" finished-at="2021-09-08T10:20:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faq -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="812" started-at="2021-09-08T10:20:52 IST" finished-at="2021-09-08T10:20:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="10625" started-at="2021-09-08T10:20:53 IST" finished-at="2021-09-08T10:21:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="mobileworkshoe()[pri:9, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="mobileworkshoe" duration-ms="2521" started-at="2021-09-08T10:21:03 IST" finished-at="2021-09-08T10:21:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileworkshoe -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="816" started-at="2021-09-08T10:21:06 IST" finished-at="2021-09-08T10:21:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="11300" started-at="2021-09-08T10:21:07 IST" finished-at="2021-09-08T10:21:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="instagram()[pri:10, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="instagram" duration-ms="190" started-at="2021-09-08T10:21:18 IST" finished-at="2021-09-08T10:21:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instagram -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="823" started-at="2021-09-08T10:21:18 IST" finished-at="2021-09-08T10:21:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="9782" started-at="2021-09-08T10:21:19 IST" finished-at="2021-09-08T10:21:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="twitter()[pri:11, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="twitter" duration-ms="169" started-at="2021-09-08T10:21:29 IST" finished-at="2021-09-08T10:21:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitter -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="901" started-at="2021-09-08T10:21:29 IST" finished-at="2021-09-08T10:21:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="11104" started-at="2021-09-08T10:21:30 IST" finished-at="2021-09-08T10:21:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="facebook()[pri:12, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="facebook" duration-ms="160" started-at="2021-09-08T10:21:41 IST" finished-at="2021-09-08T10:21:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="876" started-at="2021-09-08T10:21:41 IST" finished-at="2021-09-08T10:21:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="10275" started-at="2021-09-08T10:21:42 IST" finished-at="2021-09-08T10:21:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="pinterest()[pri:13, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="pinterest" duration-ms="274" started-at="2021-09-08T10:21:52 IST" finished-at="2021-09-08T10:21:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pinterest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="869" started-at="2021-09-08T10:21:53 IST" finished-at="2021-09-08T10:21:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="9909" started-at="2021-09-08T10:21:54 IST" finished-at="2021-09-08T10:22:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="storesafety()[pri:14, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="storesafety" duration-ms="874" started-at="2021-09-08T10:22:03 IST" finished-at="2021-09-08T10:22:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storesafety -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="806" started-at="2021-09-08T10:22:04 IST" finished-at="2021-09-08T10:22:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="9724" started-at="2021-09-08T10:22:05 IST" finished-at="2021-09-08T10:22:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="buyonline()[pri:15, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="buyonline" duration-ms="929" started-at="2021-09-08T10:22:15 IST" finished-at="2021-09-08T10:22:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyonline -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="782" started-at="2021-09-08T10:22:16 IST" finished-at="2021-09-08T10:22:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="11740" started-at="2021-09-08T10:22:17 IST" finished-at="2021-09-08T10:22:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="storeinformation()[pri:16, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="storeinformation" duration-ms="1850" started-at="2021-09-08T10:22:28 IST" finished-at="2021-09-08T10:22:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storeinformation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="817" started-at="2021-09-08T10:22:30 IST" finished-at="2021-09-08T10:22:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="9831" started-at="2021-09-08T10:22:31 IST" finished-at="2021-09-08T10:22:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="employment()[pri:17, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="employment" duration-ms="2083" started-at="2021-09-08T10:22:41 IST" finished-at="2021-09-08T10:22:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employment -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="806" started-at="2021-09-08T10:22:43 IST" finished-at="2021-09-08T10:22:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="Setup" is-config="true" duration-ms="9551" started-at="2021-09-08T10:22:44 IST" finished-at="2021-09-08T10:22:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="homecat()[pri:18, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="homecat" duration-ms="33822" started-at="2021-09-08T10:22:53 IST" finished-at="2021-09-08T10:23:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homecat -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.rogansshoes.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="828" started-at="2021-09-08T10:23:27 IST" finished-at="2021-09-08T10:23:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.rogansshoes.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
